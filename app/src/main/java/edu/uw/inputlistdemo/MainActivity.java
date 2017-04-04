@@ -1,4 +1,4 @@
-package edu.uw.listdatademo;
+package edu.uw.inputlistdemo;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

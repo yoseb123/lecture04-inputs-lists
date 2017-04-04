@@ -27,6 +27,7 @@
       </value>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
@@ -43,6 +44,4 @@
       </state>
     </states>
   </component>
-=======
->>>>>>> 486944704bae57b705511c36112d8157e5570042
 </project>

@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "22.0.1"
+    buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "edu.uw.listdatademo"
+        applicationId "edu.uw.inputlistdemo"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
