@@ -1,4 +1,4 @@
-package edu.uw.listdatademo;
+package edu.uw.inputlistdemo;
 
 import android.os.AsyncTask;
 import android.os.Bundle;

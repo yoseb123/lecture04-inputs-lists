@@ -1,4 +1,4 @@
-package edu.uw.listdatademo;
+package edu.uw.inputlistdemo;
 
 import org.junit.Test;
 

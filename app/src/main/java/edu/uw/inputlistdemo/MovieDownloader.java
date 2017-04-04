@@ -1,4 +1,4 @@
-package edu.uw.listdatademo;
+package edu.uw.inputlistdemo;
 
 import android.util.Log;
 
@@ -34,7 +34,7 @@ public class MovieDownloader {
         HttpURLConnection urlConnection = null;
         BufferedReader reader = null;
 
-        String movies[] = null;
+        String[] movies = null;
 
         try {
 
