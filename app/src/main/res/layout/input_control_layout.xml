@@ -15,6 +15,7 @@
         android:layout_height="wrap_content"
         android:text="Search"
         android:drawableLeft="@android:drawable/ic_menu_search"
+        android.onClick="handleButtonSearch"
         />
 
     <EditText
